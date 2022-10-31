@@ -3,7 +3,7 @@ ul{
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: lightcoral;
+    
 }
 
 li {
@@ -20,4 +20,9 @@ li a {
 
 li a:hover {
     background-color: black;
+}
+
+body {
+    background-color: lightcoral;
+
 }
