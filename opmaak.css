@@ -35,7 +35,7 @@ div {
     background: lightsalmon;
   }
   
-  .inhoudsopgave {
+  .inhoudsopgave { 
     box-sizing: inhoudsopgave;
     /* Total width: 160px + (2 * 20px) + (2 * 8px) = 216px
        Total height: 80px + (2 * 20px) + (2 * 8px) = 136px
