@@ -28,5 +28,12 @@ li a:hover {
 body {
     background-color: lightcyan;
 
+
+responsive {
+     width: 100%;
+     height: auto;
+}
+
+
 }
  
