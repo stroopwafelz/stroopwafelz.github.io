@@ -16,7 +16,7 @@ li a {
     display: block;
     color: wheat; 
     text-align: center;
-    padding: 14 16;
+    padding: 14, 16;
     text-decoration: none;
 }
 
@@ -29,14 +29,4 @@ body {
     background-color: lightcyan;
 
 }
-
-.footer {
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    background-color: rgba(89, 199, 226, 0.836);
-    color: rgb(5, 25, 37);
-    text-align: center;
-  }
  
