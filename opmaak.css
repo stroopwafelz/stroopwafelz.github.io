@@ -3,7 +3,7 @@ ul{
     margin: 0;
     padding: 0;
     overflow: hidden;
-    
+    background-color: azure;
 }
 
 li {
@@ -12,7 +12,7 @@ li {
 
 li a {
     display: block;
-    color: azure; 
+    color: whitesmoke; 
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -29,6 +29,7 @@ body {
 
 /*Hieronder zie je de opmaak van de inhoudsopgave*/
 
+/* dit mag weg als het werkt
 div {
     width: 160px;
     height: 130px;
@@ -40,5 +41,5 @@ div {
   .inhoudsopgave { 
     box-sizing: inhoudsopgave;
   }
-  
+  */
  
