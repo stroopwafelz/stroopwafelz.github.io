@@ -29,9 +29,11 @@ body {
     background-color: lightcyan;
 
 
-responsive {
-     width: 100%;
-     height: auto;
+img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    object-position: bottom;
 }
 
 
