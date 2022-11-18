@@ -1,3 +1,5 @@
+/*Hieronder zie je de opmaak van de inhoudsopgave*/
+
 ul{
     list-style-type: none;
     margin: 0;
@@ -14,7 +16,7 @@ li a {
     display: block;
     color: wheat; 
     text-align: center;
-    padding: 14px 16px;
+    padding: 0;
     text-decoration: none;
 }
 
@@ -22,24 +24,10 @@ li a:hover {
     background-color: rgb(241, 148, 148);
 }
 
+/* dit is voor de achtergrond kleur */
 body {
     background-color: lightcyan;
 
 }
 
-/*Hieronder zie je de opmaak van de inhoudsopgave*/
-
-/* dit mag weg als het werkt
-div {
-    width: 160px;
-    height: 130px;
-    padding: 20px;
-    border: 8px solid lightblue;
-    background: lightcyan;
-  }
-  
-  .inhoudsopgave { 
-    box-sizing: inhoudsopgave;
-  }
-  */
  
